@@ -1,19 +1,467 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
+  "products":[
+      {
+          "id":1,
+          "prod_name":"BEST SELLING BESTIES KIT",
+          "categories" :"KIT",
+          "best_price":2800,
+          "mrp":3200,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2022/11/frank-body-best-selling-besties-kit_DOT.COM_UK_VESSEL-1.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2022/11/NA_UK_Holiday_Social_1080X1080_0000s_0008_Best-Selling-Besties-Kit_UK.1-1000x1000.jpg"
+      } , {
+          "id":2,
+          "prod_name":"SCRUB UP KIT",
+          "categories":"KIT",
+          "best_price":1200,
+          "mrp":1500,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2022/11/frank-body-Scrub-up-kit_DOT.COM_UK_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2022/10/NA_UK_Holiday_Social_1080X1080_0000s_0003_Scrub-Up-Kit_UK_NA-1000x1000.jpg"
+
+      }, {
+          "id":3,
+          "prod_name":"THE ORIGINAL LIP DUO",
+          "categories":"KIT",
+          "best_price":980,
+          "mrp":1200,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2018/08/frank-body-lip-duo-kit_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2018/08/frank-body-lip-duo-kit_DOT.COM_FLAT-LAY.jpg"
+
+      }, {
+          "id":4,
+          "prod_name":"THE MEGA COMPLEXION CREW KIT",
+          "categories":"KIT",
+          "best_price":2500,
+          "mrp":2900,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2018/08/OLD_frank-body-mega-complexion-crew-kit_DOT.COM_VESSEL-1.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2018/08/frank-body-mega-complexion-crew-kit_DOT.COM_MODEL-03-V2.jpg"
+
+      }, {
+          "id":5,
+          "prod_name":"THE SHOWER SCRUBS KIT",
+          "categories":"KIT",
+          "best_price":2500,
+          "mrp":12000,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2018/09/frank-body-shower-scrubs-kit_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2018/09/frank-body-shower-scrubs-kit_DOT.COM_MODEL-01.jpg"
+
+      }, {
+          "id":6,
+          "prod_name":"GET ACTIVE FACE KIT",
+          "categories":"KIT",
+          "best_price":3200,
+          "mrp":3800,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/05/frank-body-get-active-face-kit_DOT.COM_VESSEL-1.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2021/05/frank-body-get-active-face-kit_DOT.COM_MODEL-02-1.jpg"
+
+      }, {
+          "id":7,
+          "prod_name":"THE ORIGINAL SCRUB CLUB",
+          "categories":"KIT",
+          "best_price":3900,
+          "mrp":4500,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2018/09/frank-body-scrub-club-kit_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2018/09/frank-body-scrub-club-kit_DOT.COM_MODEL-01.jpg"
+
+      }, {
+          "id":8,
+          "prod_name":"BEST FACE FORWARD KIT",
+          "categories":"KIT",
+          "best_price":4800,
+          "mrp":8000,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/10/frank-body-best-face-forward-kit_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2021/10/frank-body-best-face-forward-kit_DOT.COM_MODEL-02.jpg"
+
+      }, {
+          "id":9,
+          "prod_name":"NON-STOP HAIR DUO KIT",
+          "categories":"KIT",
+          "best_price":1400,
+          "mrp":2399,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2019/05/frank-body-non-stop-hair-duo-kit_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2019/05/frank-body-non-stop-hair-duo-kit_DOT.COM_MODEL-02-V2.jpg"
+
+      }, {
+          "id":10,
+          "prod_name":"THE BABY MUMMA KIT",
+          "categories":"KIT",
+          "best_price":2409,
+          "mrp":2876,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2019/04/frank-body-baby-mumma-kit_DOT.COM_VESSEL.jpg",
+          "url_2":""
+
+      }, {
+          "id":11,
+          "prod_name":"THE OUT OF TOWNERS KIT",
+          "categories":"KIT",
+          "best_price":3200,
+          "mrp":3500,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2018/08/frank-body-the-out-of-towners_DOT.COM_VESSEL-1.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2018/08/frank-body-the-out-of-towners_DOT.COM_VESSEL-1.jpg"
+
+      }, {
+          "id":12,
+          "prod_name":"THE PORE-IFICS KIT",
+          "categories":"KIT",
+          "best_price":2897,
+          "mrp":3200,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2018/09/frank-body-poreifics-kit_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2018/09/frank-body-poreifics-kit_DOT.COM_FLAT-LAY.jpg"
+
+      }, {
+          "id":13,
+          "prod_name":"BUTT FIRST, COFFEE KIT",
+          "categories":"KIT",
+          "best_price":1490,
+          "mrp":1999,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2020/09/frank-body-butt-first-coffee-kit_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2020/09/frank-body-butt-first-coffee-kit_DOT.COM_FLAT-LAY.jpg"
+
+      }, {
+          "id":14,
+          "prod_name":"GRAB MY (ROSE)HIPS KIT",
+          "categories":"KIT",
+          "best_price":2400,
+          "mrp":3259,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2022/03/frank-body-rosehip-duo_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2022/03/frank-body-rosehip-duo_DOT.COM_VESSEL.jpg"
+
+      }, {
+          "id":15,
+          "prod_name":"THREE WAY KIT",
+          "categories":"KIT",
+          "best_price":3410,
+          "mrp":5000,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2022/11/frank-body-three-way-kit_DOT.COM_UK_VESSEL-1.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2022/10/NA_UK_Holiday_Social_1080X1080_0000s_0000_Three-Way-Kit_UK-1-1000x1000.jpg"
+
+      }, {
+          "id":16,
+          "prod_name":"EXFOLIATING SCALP SERUM",
+          "categories":"HAIR",
+          "best_price":1390,
+          "mrp":2200,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/02/frank-body-exfoliating-scalp-serum_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2021/02/frank-body-exfoliating-scalp-serum_DOT.COM_MODEL-03.jpg"
+
+      }, {
+          "id":17,
+          "prod_name":"CAFFEINATED SCALP SCRUB",
+          "categories":"HAIR",
+          "best_price":1500,
+          "mrp":2340,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2019/04/frank-body-caffeinated-scalp-scrub_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2019/04/frank-body-caffeinated-scalp-scrub_DOT.COM_MODEL-02-V2.jpg"
+
+      }, {
+          "id":18,
+          "prod_name":"CAFFEINATED HAIR MASK",
+          "categories":"HAIR",
+          "best_price":5433,
+          "mrp":6543,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2019/04/frank-body-caffeinated-hair-mask_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2021/03/franklab_Ingredient_PinsNYACINIMIDE-1000x1000.png"
+
+      }, {
+          "id":19,
+          "prod_name":"DRY CLEAN VOLUME POWDER",
+          "categories":"HAIR",
+          "best_price":899,
+          "mrp":999,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/02/frank-body-dry-clean-volume-powder_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2021/02/frank-body-dry-clean-volume-powder_DOT.COM_MODEL-03-V2.jpg"
+
+      }, {
+          "id":20,
+          "prod_name":"SHIMMER LIP GLOSS",
+          "categories":"FACE",
+          "best_price":598,
+          "mrp":877,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2018/03/frank-body-shimmer-lip-balm_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2018/03/frank-body-shimmer-lip-balm_DOT.COM_FLAT-LAY.jpg"
+
+      }, {
+          "id":21,
+          "prod_name":"CHERRY BOMB LIP SCRUB",
+          "categories":"FACE",
+          "best_price":987,
+          "mrp":1234,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2018/03/frank-body-cherry-bomb-lip-scrub_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2018/03/frank-body-cherry-bomb-lip-scrub_DOT.COM_SWATCH.jpg"
+
+      }, {
+          "id":22,
+          "prod_name":"TAUPE-LESS LIP & CHEEK TINT",
+          "categories":"FACE",
+          "best_price":638,
+          "mrp":823,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2017/10/frank-body-taupe-less-lip-tint_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2017/10/frank-body-taupe-less-lip-tint_DOT.COM_MODEL-03.jpg"
+
+      }, {
+          "id":23,
+          "prod_name":"LIP BALM",
+          "categories":"FACE",
+          "best_price":299,
+          "mrp":399,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2016/12/frank-body-lip-balm_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2016/12/frank-body-lip-balm_DOT.COM_FLAT-LAY.jpg"
+
+      }, {
+          "id":24,
+          "prod_name":"CHERRY BOMB LIP & CHEEK TINT",
+          "categories":"BODY",
+          "best_price":697,
+          "mrp":987,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2017/10/frank-body-cherry-bomb-lip-tint_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2017/10/frank-body-cherry-bomb-lip-tint_DOT.COM_SWATCH-1.jpg"
+
+      }, {
+          "id":25,
+          "prod_name":"LIP SCRUB",
+          "categories":"BODY",
+          "best_price":298,
+          "mrp":399,
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2016/12/frank-body-lip-scrub_DOT.COM_MODEL-02.jpg",
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2016/12/frank-body-lip-scrub_DOT.COM_VESSEL.jpg"
+
+      }, {
+          "id":26,
+          "prod_name":"CHARCOAL FACE CLEANSER",
+          "categories":"FACE",
+          "best_price":876,
+          "mrp":1298,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2016/12/frank-body-charcoal-face-cleanser_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2016/12/frank-body-charcoal-face-cleanser_DOT.COM_SWATCH.jpg"
+
+      }, {
+          "id":27,
+          "prod_name":"THE ORIGINAL LIP DUO",
+          "categories":"FACE",
+          "best_price":1650,
+          "mrp":1870,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2018/08/frank-body-lip-duo-kit_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2018/08/frank-body-lip-duo-kit_DOT.COM_FLAT-LAY.jpg"
+
+      }, {
+          "id":28,
+          "prod_name":"GET ACTIVE FACE KIT",
+          "categories":"FACE",
+          "best_price":2094,
+          "mrp":2987,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/05/frank-body-get-active-face-kit_DOT.COM_VESSEL-1.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2021/05/frank-body-get-active-face-kit_DOT.COM_MODEL-02-1.jpg"
+
+      }, {
+          "id":29,
+          "prod_name":"THE MEGA COMPLEXION CREW KIT",
+          "categories":"FACE",
+          "best_price":8764,
+          "mrp":9999,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2018/08/OLD_frank-body-mega-complexion-crew-kit_DOT.COM_VESSEL-1.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2018/08/frank-body-mega-complexion-crew-kit_DOT.COM_MODEL-03-V2.jpg"
+
+      }, {
+          "id":30,
+          "prod_name":"BRIGHTENING EYE SERUM",
+          "categories":"FACE",
+          "best_price":397,
+          "mrp":499,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/03/frank-body-brightening-eye-serum_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2021/03/frank-body-brightening-eye-serum_DOT.COM_SWATCH.jpg"
+
+      }, {
+          "id":31,
+          "prod_name":"CHARCOAL FACE MASK",
+          "categories":"FACE",
+          "best_price":476,
+          "mrp":876,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/08/frank-body-charcoal-face-mask_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2021/08/franklab_Ingredient_PinsCHARCOAL-1000x1000.png"
+
+      }, {
+          "id":32,
+          "prod_name":"CAFFEINATED FACE MOISTURISER",
+          "categories":"FACE",
+          "best_price":1360,
+          "mrp":1600,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2016/12/frank-body-caffeinated-face-moisturiser_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2020/03/franklab_Ingredient_PinsALOE-VERA-1000x1000.png"
+
+      }, {
+          "id":33,
+          "prod_name":"ORIGINAL FACE SCRUB",
+          "categories":"FACE",
+          "best_price":765,
+          "mrp":823,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2016/12/frank-body-original-face-scrub_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2016/12/frank-body-original-face-scrub_DOT.COM_SWATCH.jpg"
+
+      }, {
+          "id":34,
+          "prod_name":"GLOW MASK",
+          "categories":"FACE",
+          "best_price":345,
+          "mrp":543,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2017/03/frank-body-glow-mask_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2017/03/frank-body-glow-mask_DOT.COM_MODEL-04.jpg"
+
+      }, {
+          "id":35,
+          "prod_name":"BRIGHTENING VITAMIN C MASK",
+          "categories":"FACE",
+          "best_price":455,
+          "mrp":934,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2020/03/frank-body-brightening-vitamin-c-mask_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2020/03/frank-body-brightening-vitamin-c-mask_DOT.COM_SWATCH.jpg"
+
+      }, {
+          "id":36,
+          "prod_name":"EXTRA CLEAN FACE WASH",
+          "categories":"FACE",
+          "best_price":899,
+          "mrp":988,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/01/frank-body-everyday-extra-clean-face-wash_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2021/03/franklab_Ingredient_PinsNYACINIMIDE-1000x1000.png"
+
+      }, {
+          "id":37,
+          "prod_name":"REWIND RETINOL SERUM",
+          "categories":"FACE",
+          "best_price":654,
+          "mrp":987,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/03/frank-body-rewind-retinol-serum_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2021/03/frank-body-rewind-retinol-serum_DOT.COM_SWATCH.jpg"
+
+      }, {
+          "id":38,
+          "prod_name":"HYALURONIC ACID SERUM",
+          "categories":"FACE",
+          "best_price":1987,
+          "mrp":2300,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/03/frank-body-hydrating-hyaluronic-acid-serum_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2021/03/frank-body-hydrating-hyaluronic-acid-serum_DOT.COM_SWATCH.jpg"
+
+      }, {
+          "id":39,
+          "prod_name":"CERAMIDE NIGHT CREAM",
+          "categories":"FACE",
+          "best_price":1603,
+          "mrp":2344,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2022/05/frank-body-super-ceramide-night-cream_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2022/05/frank-body-super-ceramide-night-cream_DOT.COM_SWATCH-1.jpg"
+
+      }, {
+          "id":40,
+          "prod_name":"MARSHMALLOW LIP SCRUB",
+          "categories":"FACE",
+          "best_price":500,
+          "mrp":986,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/10/frank-body-whip_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2021/10/frank-body-whip_DOT.COM_FLAT-LAY-01.jpg"
+
+      }, {
+          "id":41,
+          "prod_name":"MARSHMALLOW LIP TINT",
+          "categories":"FACE",
+          "best_price":897,
+          "mrp":980,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/10/frank-body-pout-canada_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2021/10/frank-body-pout-canada_DOT.COM_FLATLAY-03.jpg"
+
+      }, {
+          "id":42,
+          "prod_name":"CLEAN BODY WASH",
+          "categories":"EVERYDAY",
+          "best_price":897,
+          "mrp":1200,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/01/frank-body-everyday-un-scented-bodywash_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2021/01/frank-body-everyday-un-scented-bodywash_DOT.COM_VESSEL.jpg"
+
+      }, {
+          "id":43,
+          "prod_name":"CLEAN DEODORANT",
+          "categories":"EVERYDAY",
+          "best_price":234,
+          "mrp":321,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/01/frank-body-everyday-un-scented-scented-deodorant_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2021/01/frank-body-everyday-un-scented-scented-deodorant_DOT.COM_SWATCH.jpg"
+
+      }, {
+          "id":44,
+          "prod_name":"CLEAN BODY WASH: SUNDAY BRUNCH",
+          "categories":"EVERYDAY",
+          "best_price":937,
+          "mrp":1450,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/01/frank-body-everyday-scented-bodywash_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2021/01/frank-body-everyday-scented-bodywash_DOT.COM_FLAT-LAY-V2.jpg"
+
+      }, {
+          "id":45,
+          "prod_name":"CLEAN DEODORANT: CUCUMBER & GREEN TEA",
+          "categories":"EVERYDAY",
+          "best_price":880,
+          "mrp":924,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/01/frank-body-everyday-scented-scented-deodorant_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2021/01/frank-body-everyday-scented-scented-deodorant_DOT.COM_MODEL-01.jpg"
+
+      }, {
+          "id":46,
+          "prod_name":"EXTRA CLEAN FACE WASH",
+          "categories":"EVERYDAY",
+          "best_price":960,
+          "mrp":999,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/01/frank-body-everyday-extra-clean-face-wash_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2021/01/frank-body-everyday-extra-clean-face-wash_DOT.COM_FLAT-LAY-V2.jpg"
+
+      }, {
+          "id":47,
+          "prod_name":"IN-SHOWER MOISTURISER",
+          "categories":"EVERYDAY",
+          "best_price":942,
+          "mrp":999,
+          "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/05/frank-body-everyday-in-shower-moisturiser_DOT.COM_VESSEL.jpg",
+          "url_2":"https://www.frankbody.com/int/wp-content/uploads/2021/05/frank-body-everyday-in-shower-moisturiser_DOT.COM_SWATCH.jpg"
+
+      }, {
+          "id":48,
+          "prod_name":"Peptide Repair Rescue Micellar Shampoo",
+          "categories":"HAIR",
+          "best_price":780,
+          "mrp":1000,
+          "url_1":"https://images-static.nykaa.com/media/catalog/product/4/d/4d6267e4045787427523new1.jpg?tr=w-344,h-344,cm-pad_resize",
+          "url_2":"https://images-static.nykaa.com/media/catalog/product/4/d/4d6267e4045787427523new3.jpg"
+
+      }, {
+          "id":49,
+          "prod_name":"Touch & Glow Powder",
+          "categories":"EVERYDAY",
+          "best_price":499,
+          "mrp":499,
+          "url_1":"https://images-static.nykaa.com/media/catalog/product/h/o/hofn0000008515-a.jpg",
+          "url_2":"https://images-static.nykaa.com/media/catalog/product/m/o/monoeye_1_1.jpg"
+
+      }, {
+          "id":50,
+          "prod_name":"Hair Accessory Set",
+          "categories":"HAIR",
+          "best_price":548,
+          "mrp":329,
+          "url_1":"https://images-static.nykaa.com/media/catalog/product/7/a/7a4a5d58903705173906__1_.jpg",
+          "url_2":"https://images-static.nykaa.com/media/catalog/product/7/a/7a4a5d58903705173906_new__3.jpg"
+
+      }, {
+          "id":51,
+          "prod_name":"Pink Shores 3-Wick Candle",
+          "categories":"BODY",
+          "best_price":1679,
+          "mrp":2799,
+          "url_1":"https://images-static.nykaa.com/media/catalog/product/2/e/2ef60e1667556464283.jpg",
+          "url_2":"https://images-static.nykaa.com/media/catalog/product/2/e/2ef60e1667556464283.jpg"
+
+      }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+
+  "cart":[],
+  "orderHistory":[],
+  "userDetail" :{}
 }
