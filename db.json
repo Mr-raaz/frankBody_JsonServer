@@ -458,7 +458,226 @@
           "url_1":"https://images-static.nykaa.com/media/catalog/product/2/e/2ef60e1667556464283.jpg",
           "url_2":"https://images-static.nykaa.com/media/catalog/product/2/e/2ef60e1667556464283.jpg"
 
-      }
+      },
+      {
+        "id":52,
+        "prod_name":"Carlton London Perfume Limited Edition Blush Perfume",
+        "categories":"Perfumes",
+        "best_price":879,
+        "mrp":2190,
+        "url_1":"https://images-static.nykaa.com/media/catalog/product/1/d/1de55bcCARLT00002136_1.jpg",
+        "url_2":"https://images-static.nykaa.com/media/catalog/product/1/d/1de55bcCARLT00002136_2.jpg"
+
+        
+    },
+    {
+      "id":53,
+      "prod_name":"Ramsons You are lovely Eau De Perfume",
+      "categories":"Perfumes",
+      "best_price":165,
+      "mrp":287,
+      "url_1":"https://images-static.nykaa.com/media/catalog/product/e/4/e457e8c8904173505381_1.jpg",
+      "url_2":"https://images-static.nykaa.com/media/catalog/product/e/4/e457e8c8904173505381_2.jpg"
+
+      
+  },
+  {
+    "id":54,
+    "prod_name":"Masaba By Nykaa Mini Pocket Perfume",
+    "categories":"Perfumes",
+    "best_price":179,
+    "mrp":299,
+    "url_1":"https://images-static.nykaa.com/media/catalog/product/c/a/ca350668904245712211_1.jpg",
+    "url_2":"https://images-static.nykaa.com/media/catalog/product/c/a/ca350668904245712211_3.jpg"
+
+    
+},
+{
+  "id":55,
+  "prod_name":"Chemist At Play Aqua Fragrance Under Arm Roll On For Lighter",
+  "categories":"Perfumes",
+  "best_price":359,
+  "mrp":399,
+  "url_1":"https://images-static.nykaa.com/media/catalog/product/f/f/ffb654cCHEMI00000080_1.jpg",
+  "url_2":"https://images-static.nykaa.com/media/catalog/product/f/f/ffb654cCHEMI00000080_2.jpg"
+
+  
+},
+{
+  "id":56,
+  "prod_name":"Moi By Nykaa Mini Pocket Perfume - Joie De Vivre",
+  "categories":"Perfumes",
+  "best_price":224,
+  "mrp":249,
+  "url_1":"https://images-static.nykaa.com/media/catalog/product/3/4/3417f328904245710736_1a.jpg",
+  "url_2":"https://images-static.nykaa.com/media/catalog/product/3/4/3417f328904245710736_2.jpg"
+
+  
+},
+{
+  "id":57,
+  "prod_name":"Yves Saint Laurent Libre Eau De Parfum",
+  "categories":"perfumes",
+  "best_price":2900,
+  "mrp":3100,
+  "url_1":"https://images-static.nykaa.com/media/catalog/product/3/a/3a56e183614272648418_1.jpg",
+  "url_2":"https://images-static.nykaa.com/media/catalog/product/3/a/3a56e183614272648418_2.jpg"
+
+  
+},
+{
+  "id":58,
+  "prod_name":"Ramsons Laopale Eau De Perfume",
+  "categories":"Perfumes",
+  "best_price":165,
+  "mrp":298,
+  "url_1":"https://images-static.nykaa.com/media/catalog/product/8/9/8904173500140.jpg",
+  "url_2":"https://images-static.nykaa.com/media/catalog/product/8/9/8904173500140.jpg"
+
+  
+},
+{
+  "id":59,
+  "prod_name":"Yves Saint Laurent Y Eau De Parfum",
+  "categories":"Perfumes",
+  "best_price":4200,
+  "mrp":6000,
+  "url_1":"https://images-static.nykaa.com/media/catalog/product/3/5/3561a213614272050341_1.jpg",
+  "url_2":"https://images-static.nykaa.com/media/catalog/product/3/5/3561a213614272050341_2.jpg"
+
+  
+},
+{
+  "id":60,
+  "prod_name":"Ramsons You are Sweet Eau De Perfume",
+  "categories":"Perfumes",
+  "best_price":165,
+  "mrp":299,
+  "url_1":"https://images-static.nykaa.com/media/catalog/product/c/2/c244e8c8904173505398_1.jpg",
+  "url_2":"https://images-static.nykaa.com/media/catalog/product/c/2/c244e8c8904173505398_3.jpg"
+
+  
+},
+{
+  "id":61,
+  "prod_name":"Bella Vita Organic Unisex Luxury Perfume Gift Set",
+  "categories":"Perfumes",
+  "best_price":594
+  ,
+  "mrp":849,
+  "url_1":"https://images-static.nykaa.com/media/catalog/product/8/0/80b07c58906150340428_1.jpg",
+  "url_2":"https://images-static.nykaa.com/media/catalog/product/8/0/80b07c58906150340428_2.jpg"
+
+  
+},
+{
+  "id":62,
+  "prod_name":"Nykaa Matte Luxe Lipstick - Artisanal Coffee",
+  "categories":"Lipcare",
+  "best_price":578,
+  "mrp":897,
+  "url_1":"https://images-static.nykaa.com/media/catalog/product/a/2/a2f11eb8904245710033_1.jpg",
+  "url_2":"https://images-static.nykaa.com/media/catalog/product/a/2/a2f11eb8904245710033_3.jpg"
+
+  
+},
+{
+  "id":63,
+  "prod_name":"Maybelline New York Sensational Liquid Matte",
+  "categories":"Lipcare",
+  "best_price":209,
+  "mrp":349,
+  "url_1":"https://images-static.nykaa.com/media/catalog/product/1/a/1ab4674MAYBE00000172_1.jpg",
+  "url_2":"https://images-static.nykaa.com/media/catalog/product/1/a/1ab4674MAYBE00000172_6.jpg"
+
+  
+},
+{
+  "id":64,
+  "prod_name":"Daily Life Forever52 Pro Artist Multitasker Lipstick Palette",
+  "categories":"Lipcare",
+  "best_price":2249,
+  "mrp":2499,
+  "url_1":"https://images-static.nykaa.com/media/catalog/product/8/8/8859772DAIAA00000281_1.jpg",
+  "url_2":"https://images-static.nykaa.com/media/catalog/product/8/8/8859772DAIAA00000281_3.jpg"
+
+  
+},
+{
+  "id":65,
+  "prod_name":"Kay Beauty Matteinee Matte Lip Crayon Lipstick",
+  "categories":"Lipcare",
+  "best_price":619,
+  "mrp":815,
+  "url_1":"https://images-static.nykaa.com/media/catalog/product/b/b/bbe14e88904330900035_2.jpg",
+  "url_2":"https://images-static.nykaa.com/media/catalog/product/b/b/bbe14e88904330900035_3.jpg"
+
+  
+},
+{
+  "id":66,
+  "prod_name":"Maybelline New York y Matte Lipstick",
+  "categories":"Lipcare",
+  "best_price":228,
+  "mrp":325,
+  "url_1":"https://images-static.nykaa.com/media/catalog/product/e/6/e6d6e5041554453645_1.jpg",
+  "url_2":"https://images-static.nykaa.com/media/catalog/product/e/6/e6d6e5041554453645_1.jpg"
+
+  
+},
+{
+  "id":67,
+  "prod_name":"Lakme 9 To 5 Primer + Matte Lipstick",
+  "categories":"Lipcare",
+  "best_price":446,
+  "mrp":526,
+  "url_1":"https://images-static.nykaa.com/media/catalog/product/2/e/2e79f0524846_s11-8901030794292.jpg",
+  "url_2":"https://images-static.nykaa.com/media/catalog/product/2/e/2e79f0524846_h-8901030794292.jpg"
+
+  
+},
+{
+  "id":68,
+  "prod_name":"Insight Cosmetics Non-Transfer Lip Color",
+  "categories":"Lipcare",
+  "best_price":99,
+  "mrp":182,
+  "url_1":"https://images-static.nykaa.com/media/catalog/product/1/4/14c97bc8904207500900_1.jpg",
+  "url_2":"https://images-static.nykaa.com/media/catalog/product/1/4/14c97bc8904207500900_3.jpg"
+
+  
+},
+{
+  "id":69,
+  "prod_name":"Maybelline New York Color Sensational Ultimattes Lipstick ",
+  "categories":"Lipcare",
+  "best_price":332,
+  "mrp":549,
+  "url_1":"https://images-static.nykaa.com/media/catalog/product/e/0/e052e50MAYBE00000249_1.jpg",
+  "url_2":"https://images-static.nykaa.com/media/catalog/product/e/0/e052e50MAYBE00000249.jpg"
+
+  
+},
+{
+  "id":70,
+  "prod_name":"Dot & Key Gloss Boss Tinted Lip Balm SPF 30 Vitamin C",
+  "categories":"Lipcare",
+  "best_price":212,
+  "mrp":249,
+  "url_1":"https://images-static.nykaa.com/media/catalog/product/5/7/57214a3DOTKE00000179.jpg",
+  "url_2":"https://images-static.nykaa.com/media/catalog/product/5/7/57214a3DOTKE00000179-1.jpg"
+
+  
+},
+{
+  "id":71,
+  "prod_name":"Earth Rhythm Lip & Cheek Tint ",
+  "categories":"Lipcare",
+  "best_price":374,
+  "mrp":499,
+  "url_1":"https://images-static.nykaa.com/media/catalog/product/7/6/76fb0d6NYKEYM0000043_1.png",
+  "url_2":"https://images-static.nykaa.com/media/catalog/product/7/6/76fb0d6NYKEYM0000043_2.png"
+}
   ],
 
   "cart":[],
