@@ -20,7 +20,7 @@
       }, {
           "id":3,
           "prod_name":"THE ORIGINAL LIP DUO",
-          "categories":"KIT",
+          "categories":"Lip Care",
           "best_price":980,
           "mrp":1200,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2018/08/frank-body-lip-duo-kit_DOT.COM_VESSEL.jpg",
@@ -47,7 +47,7 @@
       }, {
           "id":6,
           "prod_name":"GET ACTIVE FACE KIT",
-          "categories":"KIT",
+          "categories":"Skin Care",
           "best_price":3200,
           "mrp":3800,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/05/frank-body-get-active-face-kit_DOT.COM_VESSEL-1.jpg",
@@ -65,7 +65,7 @@
       }, {
           "id":8,
           "prod_name":"BEST FACE FORWARD KIT",
-          "categories":"KIT",
+          "categories":"Skin Care",
           "best_price":4800,
           "mrp":8000,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/10/frank-body-best-face-forward-kit_DOT.COM_VESSEL.jpg",
@@ -74,7 +74,7 @@
       }, {
           "id":9,
           "prod_name":"NON-STOP HAIR DUO KIT",
-          "categories":"KIT",
+          "categories":"HAIR",
           "best_price":1400,
           "mrp":2399,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2019/05/frank-body-non-stop-hair-duo-kit_DOT.COM_VESSEL.jpg",
@@ -173,7 +173,7 @@
       }, {
           "id":20,
           "prod_name":"SHIMMER LIP GLOSS",
-          "categories":"FACE",
+          "categories":"Lip Care",
           "best_price":598,
           "mrp":877,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2018/03/frank-body-shimmer-lip-balm_DOT.COM_VESSEL.jpg",
@@ -182,7 +182,7 @@
       }, {
           "id":21,
           "prod_name":"CHERRY BOMB LIP SCRUB",
-          "categories":"FACE",
+          "categories":"Lip Care",
           "best_price":987,
           "mrp":1234,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2018/03/frank-body-cherry-bomb-lip-scrub_DOT.COM_VESSEL.jpg",
@@ -191,7 +191,7 @@
       }, {
           "id":22,
           "prod_name":"TAUPE-LESS LIP & CHEEK TINT",
-          "categories":"FACE",
+          "categories":"Lip Care",
           "best_price":638,
           "mrp":823,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2017/10/frank-body-taupe-less-lip-tint_DOT.COM_VESSEL.jpg",
@@ -200,7 +200,7 @@
       }, {
           "id":23,
           "prod_name":"LIP BALM",
-          "categories":"FACE",
+          "categories":"Lip Care",
           "best_price":299,
           "mrp":399,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2016/12/frank-body-lip-balm_DOT.COM_VESSEL.jpg",
@@ -209,7 +209,7 @@
       }, {
           "id":24,
           "prod_name":"CHERRY BOMB LIP & CHEEK TINT",
-          "categories":"BODY",
+          "categories":"Lip Care",
           "best_price":697,
           "mrp":987,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2017/10/frank-body-cherry-bomb-lip-tint_DOT.COM_VESSEL.jpg",
@@ -218,7 +218,7 @@
       }, {
           "id":25,
           "prod_name":"LIP SCRUB",
-          "categories":"BODY",
+          "categories":"Body Care",
           "best_price":298,
           "mrp":399,
           "url_2":"https://www.frankbody.com/int/wp-content/uploads/2016/12/frank-body-lip-scrub_DOT.COM_MODEL-02.jpg",
@@ -227,7 +227,7 @@
       }, {
           "id":26,
           "prod_name":"CHARCOAL FACE CLEANSER",
-          "categories":"FACE",
+          "categories":"Skin Care",
           "best_price":876,
           "mrp":1298,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2016/12/frank-body-charcoal-face-cleanser_DOT.COM_VESSEL.jpg",
@@ -236,7 +236,7 @@
       }, {
           "id":27,
           "prod_name":"THE ORIGINAL LIP DUO",
-          "categories":"FACE",
+          "categories":"Lip Care",
           "best_price":1650,
           "mrp":1870,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2018/08/frank-body-lip-duo-kit_DOT.COM_VESSEL.jpg",
@@ -245,7 +245,7 @@
       }, {
           "id":28,
           "prod_name":"GET ACTIVE FACE KIT",
-          "categories":"FACE",
+          "categories":"Skin Care",
           "best_price":2094,
           "mrp":2987,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/05/frank-body-get-active-face-kit_DOT.COM_VESSEL-1.jpg",
@@ -254,7 +254,7 @@
       }, {
           "id":29,
           "prod_name":"THE MEGA COMPLEXION CREW KIT",
-          "categories":"FACE",
+          "categories":"Skin Care",
           "best_price":8764,
           "mrp":9999,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2018/08/OLD_frank-body-mega-complexion-crew-kit_DOT.COM_VESSEL-1.jpg",
@@ -263,7 +263,7 @@
       }, {
           "id":30,
           "prod_name":"BRIGHTENING EYE SERUM",
-          "categories":"FACE",
+          "categories":"Skin Care",
           "best_price":397,
           "mrp":499,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/03/frank-body-brightening-eye-serum_DOT.COM_VESSEL.jpg",
@@ -272,7 +272,7 @@
       }, {
           "id":31,
           "prod_name":"CHARCOAL FACE MASK",
-          "categories":"FACE",
+          "categories":"Skin Care",
           "best_price":476,
           "mrp":876,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/08/frank-body-charcoal-face-mask_DOT.COM_VESSEL.jpg",
@@ -281,7 +281,7 @@
       }, {
           "id":32,
           "prod_name":"CAFFEINATED FACE MOISTURISER",
-          "categories":"FACE",
+          "categories":"Skin Care",
           "best_price":1360,
           "mrp":1600,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2016/12/frank-body-caffeinated-face-moisturiser_DOT.COM_VESSEL.jpg",
@@ -290,7 +290,7 @@
       }, {
           "id":33,
           "prod_name":"ORIGINAL FACE SCRUB",
-          "categories":"FACE",
+          "categories":"Skin Care",
           "best_price":765,
           "mrp":823,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2016/12/frank-body-original-face-scrub_DOT.COM_VESSEL.jpg",
@@ -299,7 +299,7 @@
       }, {
           "id":34,
           "prod_name":"GLOW MASK",
-          "categories":"FACE",
+          "categories":"Skin Care",
           "best_price":345,
           "mrp":543,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2017/03/frank-body-glow-mask_DOT.COM_VESSEL.jpg",
@@ -308,7 +308,7 @@
       }, {
           "id":35,
           "prod_name":"BRIGHTENING VITAMIN C MASK",
-          "categories":"FACE",
+          "categories":"Skin Care",
           "best_price":455,
           "mrp":934,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2020/03/frank-body-brightening-vitamin-c-mask_DOT.COM_VESSEL.jpg",
@@ -317,7 +317,7 @@
       }, {
           "id":36,
           "prod_name":"EXTRA CLEAN FACE WASH",
-          "categories":"FACE",
+          "categories":"Body Care",
           "best_price":899,
           "mrp":988,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/01/frank-body-everyday-extra-clean-face-wash_DOT.COM_VESSEL.jpg",
@@ -326,7 +326,7 @@
       }, {
           "id":37,
           "prod_name":"REWIND RETINOL SERUM",
-          "categories":"FACE",
+          "categories":"Body Care",
           "best_price":654,
           "mrp":987,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/03/frank-body-rewind-retinol-serum_DOT.COM_VESSEL.jpg",
@@ -335,7 +335,7 @@
       }, {
           "id":38,
           "prod_name":"HYALURONIC ACID SERUM",
-          "categories":"FACE",
+          "categories":"Body Care",
           "best_price":1987,
           "mrp":2300,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/03/frank-body-hydrating-hyaluronic-acid-serum_DOT.COM_VESSEL.jpg",
@@ -344,7 +344,7 @@
       }, {
           "id":39,
           "prod_name":"CERAMIDE NIGHT CREAM",
-          "categories":"FACE",
+          "categories":"Body Care",
           "best_price":1603,
           "mrp":2344,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2022/05/frank-body-super-ceramide-night-cream_DOT.COM_VESSEL.jpg",
@@ -353,7 +353,7 @@
       }, {
           "id":40,
           "prod_name":"MARSHMALLOW LIP SCRUB",
-          "categories":"FACE",
+          "categories":"Body Care",
           "best_price":500,
           "mrp":986,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/10/frank-body-whip_DOT.COM_VESSEL.jpg",
@@ -362,7 +362,7 @@
       }, {
           "id":41,
           "prod_name":"MARSHMALLOW LIP TINT",
-          "categories":"FACE",
+          "categories":"Lip Care",
           "best_price":897,
           "mrp":980,
           "url_1":"https://www.frankbody.com/int/wp-content/uploads/2021/10/frank-body-pout-canada_DOT.COM_VESSEL.jpg",
@@ -452,7 +452,7 @@
       }, {
           "id":51,
           "prod_name":"Pink Shores 3-Wick Candle",
-          "categories":"BODY",
+          "categories":"Body Care",
           "best_price":1679,
           "mrp":2799,
           "url_1":"https://images-static.nykaa.com/media/catalog/product/2/e/2ef60e1667556464283.jpg",
@@ -573,7 +573,7 @@
 {
   "id":62,
   "prod_name":"Nykaa Matte Luxe Lipstick - Artisanal Coffee",
-  "categories":"Lipcare",
+  "categories":"Lip Care",
   "best_price":578,
   "mrp":897,
   "url_1":"https://images-static.nykaa.com/media/catalog/product/a/2/a2f11eb8904245710033_1.jpg",
@@ -584,7 +584,7 @@
 {
   "id":63,
   "prod_name":"Maybelline New York Sensational Liquid Matte",
-  "categories":"Lipcare",
+  "categories":"Lip Care",
   "best_price":209,
   "mrp":349,
   "url_1":"https://images-static.nykaa.com/media/catalog/product/1/a/1ab4674MAYBE00000172_1.jpg",
@@ -595,7 +595,7 @@
 {
   "id":64,
   "prod_name":"Daily Life Forever52 Pro Artist Multitasker Lipstick Palette",
-  "categories":"Lipcare",
+  "categories":"Lip Care",
   "best_price":2249,
   "mrp":2499,
   "url_1":"https://images-static.nykaa.com/media/catalog/product/8/8/8859772DAIAA00000281_1.jpg",
@@ -606,7 +606,7 @@
 {
   "id":65,
   "prod_name":"Kay Beauty Matteinee Matte Lip Crayon Lipstick",
-  "categories":"Lipcare",
+  "categories":"Lip care",
   "best_price":619,
   "mrp":815,
   "url_1":"https://images-static.nykaa.com/media/catalog/product/b/b/bbe14e88904330900035_2.jpg",
@@ -617,7 +617,7 @@
 {
   "id":66,
   "prod_name":"Maybelline New York y Matte Lipstick",
-  "categories":"Lipcare",
+  "categories":"Lip care",
   "best_price":228,
   "mrp":325,
   "url_1":"https://images-static.nykaa.com/media/catalog/product/e/6/e6d6e5041554453645_1.jpg",
@@ -628,7 +628,7 @@
 {
   "id":67,
   "prod_name":"Lakme 9 To 5 Primer + Matte Lipstick",
-  "categories":"Lipcare",
+  "categories":"Lip care",
   "best_price":446,
   "mrp":526,
   "url_1":"https://images-static.nykaa.com/media/catalog/product/2/e/2e79f0524846_s11-8901030794292.jpg",
@@ -639,7 +639,7 @@
 {
   "id":68,
   "prod_name":"Insight Cosmetics Non-Transfer Lip Color",
-  "categories":"Lipcare",
+  "categories":"Lip care",
   "best_price":99,
   "mrp":182,
   "url_1":"https://images-static.nykaa.com/media/catalog/product/1/4/14c97bc8904207500900_1.jpg",
@@ -650,7 +650,7 @@
 {
   "id":69,
   "prod_name":"Maybelline New York Color Sensational Ultimattes Lipstick ",
-  "categories":"Lipcare",
+  "categories":"Lip care",
   "best_price":332,
   "mrp":549,
   "url_1":"https://images-static.nykaa.com/media/catalog/product/e/0/e052e50MAYBE00000249_1.jpg",
@@ -661,7 +661,7 @@
 {
   "id":70,
   "prod_name":"Dot & Key Gloss Boss Tinted Lip Balm SPF 30 Vitamin C",
-  "categories":"Lipcare",
+  "categories":"Lip care",
   "best_price":212,
   "mrp":249,
   "url_1":"https://images-static.nykaa.com/media/catalog/product/5/7/57214a3DOTKE00000179.jpg",
@@ -672,7 +672,7 @@
 {
   "id":71,
   "prod_name":"Earth Rhythm Lip & Cheek Tint ",
-  "categories":"Lipcare",
+  "categories":"Lip care",
   "best_price":374,
   "mrp":499,
   "url_1":"https://images-static.nykaa.com/media/catalog/product/7/6/76fb0d6NYKEYM0000043_1.png",
